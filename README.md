@@ -11,3 +11,7 @@ We collaboratively developed the Software Requirements Specifications(SRS).
 Use Case Diagram:
 <br>
 This use case diagram was designed by Najaf Ali. This diagram describes the system’s interactions, user roles, and functional behavior.
+<br>
+Design Document:
+<br>
+Software Design Document co-authored by  and Najaf Ali and Farhal Abbas.
