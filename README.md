@@ -44,7 +44,9 @@ Visualizing the architecture was a key part of our engineering process.
 <br>
 Use Case Diagram: This diagram describes the system’s interactions, user roles, and functional behavior.
 <br>
+<br>
 Entity-Relationship Diagram (ERD): This diagram maps out the complete relational database architecture. It was designed utilizing standard industry Crow's Foot notation to accurately represent the strict one-to-many and one-to-one relationships between patients, doctors, appointments, and medical records.
+<br>
 <br>
 Data Flow Diagram (DFD): This diagram illustrates how information moves through our system, tracking the data from the moment a patient registers, through the active queueing and consultation processes, down to the final billing phase.
 <br>
