@@ -6,6 +6,8 @@ This document serves as the foundation of our project. We collaboratively wrote 
 <br>
 for what our clinic management platform would achieve and why it was necessary.
 <br>
+<br>
+<br>
 Software Requirements Specifications (SRS)
 <br>
 Functional & Non-Functional Requirements: We collaboratively developed the Software Requirements Specifications (SRS).
@@ -13,6 +15,8 @@ Functional & Non-Functional Requirements: We collaboratively developed the Softw
 Version Control: You will find multiple versions of this document. We refined it iteratively as our understanding of the system grew, moving from the initial baseline 
 <br>
 requirements to a highly detailed functional breakdown.
+<br>
+<br>
 <br>
 Software Design Document (SDS)
 <br>
@@ -22,6 +26,8 @@ Version Control: This document evolved significantly through versioning. The ear
 <br>
 comprehensive 3-tier web architecture, database schemas, and security protocols.
 <br>
+<br>
+<br>
 ERD Entities Document
 <br>
 This document acts as our comprehensive data dictionary. It details every table, column, data type, and primary/foreign key used in the backend.
@@ -29,6 +35,8 @@ This document acts as our comprehensive data dictionary. It details every table,
 Version Control: We updated this document across different versions to reflect the normalization of our database, eventually leading to our finalized supertype/subtype 
 <br>
 architecture.
+<br>
+<br>
 <br>
 System Diagrams
 <br>
@@ -39,6 +47,8 @@ Use Case Diagram: This diagram describes the system’s interactions, user roles
 Entity-Relationship Diagram (ERD): This diagram maps out the complete relational database architecture. It was designed utilizing standard industry Crow's Foot notation to accurately represent the strict one-to-many and one-to-one relationships between patients, doctors, appointments, and medical records.
 <br>
 Data Flow Diagram (DFD): This diagram illustrates how information moves through our system, tracking the data from the moment a patient registers, through the active queueing and consultation processes, down to the final billing phase.
+<br>
+<br>
 <br>
 Test Case Document
 <br>
