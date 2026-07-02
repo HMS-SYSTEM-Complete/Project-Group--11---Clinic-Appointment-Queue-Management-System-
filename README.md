@@ -1,17 +1,3 @@
 # Project-Group--11---Clinic-Appointment-Queue-Management-System-
-<br>
-Project Manager: Farhal Abbas
-<br>
-Team Members: Najaf Ali, Farhal
-<br>
-Functional & Non-Functional Requirements:
-<br>
-We collaboratively developed the Software Requirements Specifications(SRS).
-<br>
-Use Case Diagram:
-<br>
-This use case diagram was designed by Najaf Ali. This diagram describes the system’s interactions, user roles, and functional behavior.
-<br>
-Design Document:
-<br>
-Software Design Document co-authored by  and Najaf Ali and Farhal Abbas.
+Project Proposal Document
+This document serves as the foundation of our project. We collaboratively wrote it to define the initial vision, scope, and objectives of the system, setting the boundaries for what our clinic management platform would achieve and why it was necessary.
