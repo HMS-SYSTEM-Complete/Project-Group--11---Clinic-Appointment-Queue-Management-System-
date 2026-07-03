@@ -51,7 +51,7 @@ Functional UI Tests (Black-Box): Derived directly from our SRS to ensure the use
 Integration Tests (White-Box): Derived from our SDS and ERD to validate the internal database constraints, state-machine logic, and security mechanisms.
 <br>
 <br>
-Note on Version History:
+**Note on Version History:**
 You can check the commit history of this repository to view the upload times and dates for each file. Please note that while the commit history reflects our recent repository activity, several document versions were actually created earlier in our iterative development process and are just being uploaded now.
 <br>
 <br>
