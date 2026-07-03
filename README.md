@@ -1,5 +1,8 @@
 # Project-Group--11---Clinic-Appointment-Queue-Management-System-
 <br>
+Link to Video: https://drive.google.com/drive/folders/1dv-56UQMugVkilzlPFPq5-H4qCi6P-FG?usp=sharing
+<br>
+<br>
 Project Proposal Document
 <br>
 This document serves as the foundation of our project. We collaboratively wrote it to define the initial vision, scope, and objectives of the system, setting the boundaries for what our clinic management platform would achieve and why it was necessary.
