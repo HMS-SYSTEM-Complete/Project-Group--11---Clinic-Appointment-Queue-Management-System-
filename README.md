@@ -54,3 +54,46 @@ Integration Tests (White-Box): Derived from our SDS and ERD to validate the inte
 Note on Version History:
 You can check the commit history of this repository to view the upload times and dates for each file. Please note that while the commit history reflects our recent repository activity, several document versions were actually created earlier in our iterative development process and are just being uploaded now.
 <br>
+<br>
+How to Run the Project Locally:
+<br>
+<br>
+The complete project source code and assets have been compressed and uploaded to this repository as a .rar file in Project Website Folder. Follow these steps to deploy and run the system on your personal computer:
+<br>
+Prerequisites:
+<br>
+Local Server Environment: Download and install XAMPP (or WAMP/LAMP) which includes the required Apache HTTP server and MySQL database engine.
+<br>
+Extraction Tool: You will need software like WinRAR or 7-Zip to extract the .rar archive.
+<br>
+Setup Instructions
+<br>
+<br>
+Download and Extract:
+<br>
+Download the .rar file from this repository and extract its contents to a folder on your computer.
+<br>
+Move to the Server Directory:
+<br>
+Copy the extracted project folder and paste it into the htdocs directory of your XAMPP installation.
+<br>
+Windows default path: C:\xampp\htdocs\
+<br>
+<br>
+Start the Local Server:
+<br>
+Open the XAMPP Control Panel and click Start next to both the Apache and MySQL modules.
+<br>
+<br>
+Set Up the Database:
+<br>
+Open your web browser and navigate to http://localhost/phpmyadmin.
+<br>
+Click on New in the left sidebar to create a new database. (Check the /config/database.php file in the project folder for the exact database name expected by the system).
+<br>
+Select the newly created database, go to the Import tab at the top, and upload the provided .sql schema file located in the extracted project folder. Click Go to build the tables.
+<br>
+<br>
+Launch the Application:
+Open a new tab in your web browser and navigate to http://localhost/your-project-folder-name/ (replace your-project-folder-name with the actual name of the folder you placed in htdocs). The Clinic Appointment and Queue Management System should now be live!
+<br>
