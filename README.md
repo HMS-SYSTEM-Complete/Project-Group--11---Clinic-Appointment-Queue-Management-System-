@@ -9,18 +9,14 @@ Software Requirements Specifications (SRS)
 <br>
 Functional & Non-Functional Requirements: We collaboratively developed the Software Requirements Specifications (SRS).
 <br>
-Version Control: You will find multiple versions of this document. We refined it iteratively as our understanding of the system grew, moving from the initial baseline 
-<br>
-requirements to a highly detailed functional breakdown.
+Version Control: You will find multiple versions of this document. We refined it iteratively as our understanding of the system grew, moving from the initial baseline requirements to a highly detailed functional breakdown.
 <br>
 <br>
 Software Design Specification (SDS)
 <br>
 Design Document: The Software Design Document was co-authored by Najaf Ali and Farhal Abbas.
 <br>
-Version Control: This document evolved significantly through versioning. The earlier versions outline basic system components and logic, while the final versions detail our 
-<br>
-comprehensive 3-tier web architecture, database schemas, and security protocols.
+Version Control: This document evolved significantly through versioning. The earlier versions outline basic system components and logic, while the final versions detail our comprehensive 3-tier web architecture, database schemas, and security protocols.
 <br>
 <br>
 ERD Entities Document
